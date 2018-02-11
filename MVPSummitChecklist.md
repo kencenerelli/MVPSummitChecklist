@@ -37,7 +37,7 @@ Pull requests accepted on this repo.
 
 ## Travel
 1. Make sure your passport is [valid for six months](https://www.immihelp.com/visas/six-months-passport-validity-rule-visitors.html) beyond the period of your intended stay.
-1. Visit [U.S. Department of State's Visitor Visas](https://travel.state.gov/content/visas/english/visit/visitor.html) to determine whether you need to obtain a visa to enter the United States.
+1. Visit [U.S. Department of State's Visitor Visas](https://travel.state.gov/content/travel/en/us-visas.html) to determine whether you need to obtain a visa to enter the United States.
 1. Print and bring a copy of the Business Travel Support Letter available from the MVP Summit registration website. Even if you do not need a visa, it can smooth the way through U.S. Customs.
 1. Print and bring a copy of the Executive Recognition Letter. This is the letter you get from Microsoft that you can send to employers mentioning you're an MVP. It's another item you can show to customs if needed. To create your letter, log into the MVP site and navigate to [MVP Content tab > Executive Recognition Letter](https://mvp.microsoft.com/en-us/Benefits/my-benefits-executive-recognition-letter).
 1. Print copies of your travel itinerary including flights, hotel and shuttles. U.S. Customs will not appreciate it if you hold up the line while you flip through emails on your phone to find the information.
