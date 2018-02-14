@@ -30,6 +30,7 @@ Pull requests accepted on this repo.
 1. Bring a laptop so you can take notes and participate in labs.
 1. Bring all required power adapters, cables and converter/adapter plugs (if travelling from outside the USA).
 1. Bring a USB drive in case you want to share something with a fellow MVP or back up your files and photos.
+1. Bring a power bank to charge your phone during the long days and nights.
 1. Bring business cards when networking with people.
 1. Bring hand sanitizer. You will shake lots of hands and touch lots of doors.
 1. Take a picture of your suitcase with your phone. If your bags don't arrive in Seattle, you can show the airline what they look like.
