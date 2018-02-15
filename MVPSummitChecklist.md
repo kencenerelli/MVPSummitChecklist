@@ -35,6 +35,7 @@ Pull requests accepted on this repo.
 1. Bring hand sanitizer. You will shake lots of hands and touch lots of doors.
 1. Take a picture of your suitcase with your phone. If your bags don't arrive in Seattle, you can show the airline what they look like.
 1. Take photos of your valuables and their serial numbers (laptop, tablet, etc.) in case they are lost/stolen.
+1. If departing from Australia, bring Vegemite.
 
 ## Travel
 1. Make sure your passport is [valid for six months](https://www.immihelp.com/visas/six-months-passport-validity-rule-visitors.html) beyond the period of your intended stay.
