@@ -14,7 +14,7 @@ Pull requests accepted on this repo.
 1. Download maps of the Seattle/Redmond area so you can navigate the city.
 1. Add a roaming package to your phone (if applicable).
 1. Confirm your MVP profile has your correct social network information. Also, make sure your contributions are current.
-1. Reach out to MVPs and Microsoft people you want to connect with while at the summit. Set up times before heading to Seattle so you can meet up between sessions or fter hours.
+1. Reach out to MVPs and Microsoft people you want to connect with while at the summit. Set up times before heading to Seattle so you can meet up between sessions or after hours.
 1. Photocopy/scan your passport identification page and ID. Leave copies with family or friends in case you need to replace them.
 1. Arrange for travel health insurance and take care of health needs, such as prescriptions and vaccinations, required to enter the USA.
 1. Tell your credit card company you’ll be travelling abroad.
