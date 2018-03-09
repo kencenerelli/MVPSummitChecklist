@@ -6,6 +6,7 @@ Pull requests accepted on this repo.
 
 ## Pre-Travel
 1. Backup your mobile phone if you are not auto-syncing to the cloud.
+1. Make sure your mobile phone and your pre-paid card works well together with the local phone frequences 2G/3G/4G/LTE.
 1. Clear space on your phone or add extra memory if you know you will take lots of photos and videos.
 1. Update your contacts. Make sure you know how to contact your MVP friends while at the summit. This includes apps like Skype, WhatsApp and Facebook Messenger.
 1. Back up your laptop and install any pending updates. You do not want to have to do this over summit or hotel wi-fi.
