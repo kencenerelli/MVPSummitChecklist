@@ -6,7 +6,7 @@ Pull requests accepted on this repo.
 
 ## Pre-Travel
 1. Backup your mobile phone if you are not auto-syncing to the cloud.
-1. Make sure your mobile phone and your pre-paid card works well together with the local phone frequences 2G/3G/4G/LTE.
+1. Make sure your mobile phone and your pre-paid card work well together with all local phone frequencies (2G/3G/4G/LTE).
 1. Clear space on your phone or add extra memory if you know you will take lots of photos and videos.
 1. Update your contacts. Make sure you know how to contact your MVP friends while at the summit. This includes apps like Skype, WhatsApp and Facebook Messenger.
 1. Back up your laptop and install any pending updates. You do not want to have to do this over summit or hotel wi-fi.
@@ -27,7 +27,7 @@ Pull requests accepted on this repo.
 1. You will most likely get SWAG from your product group and/or buy items at the Microsoft company store. This means you can pack less in your suitcase and wear some of these new clothes.
 1. If you plan on buying a lot, leave space in your suitcase for the new items. But remember your airline's weight restrictions.
 1. Put your name on any MVP gear you are bringing. When everyone is wearing the same clothing, MVP gear can get mixed up and lost.
-1. Bring earplugs and a sleep mask if you are sharing a room and a light sleeps. Just because you want to sleep does not mean your roommate does.
+1. Bring earplugs and a sleep mask if you are sharing a room and are a light sleeper. Just because you want to sleep does not mean your roommate does.
 1. Bring a laptop so you can take notes and participate in labs.
 1. Bring all required power adapters, cables and converter/adapter plugs (if travelling from outside the USA).
 1. Bring a USB drive in case you want to share something with a fellow MVP or back up your files and photos.
